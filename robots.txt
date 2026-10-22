@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dinoroberdemir.github.io/dinorober-demir.github.io/sitemap.xml
+Sitemap: https://dinoroberdemir.github.io/sitemap.xml
