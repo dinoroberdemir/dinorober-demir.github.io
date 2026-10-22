@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dinorober-demir.github.io/al-folio/sitemap.xml
+Sitemap: https://dinoroberdemir.github.io/dinorober-demir.github.io/sitemap.xml
